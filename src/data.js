@@ -6,17 +6,21 @@
 */
 
 const state = {
-  // how many questions has the user answered?
-  //  you can calculate this value by iterating through the questions
-  //  is selected === -1?
-  answered: 0,
-  // how many correct answers has the user submitted?
-  //  you can calculate this value by iterating through the questions
-  //  is selected === correct?
-  correct: 0,
-  // should the correct answer be indicated when a user is wrong?
-  //  a possible user setting, this could be toggled in the UI
-  showCorrectAnswers: false,
+  quiz: {
+    // computed at the beginning of the quiz using the length of .questions
+    questions: 0,
+    // how many questions has the user answered?
+    //  you can calculate this value by iterating through the questions
+    //  is selected === -1?
+    answered: 0,
+    // how many correct answers has the user submitted?
+    //  you can calculate this value by iterating through the questions
+    //  is selected === correct?
+    correct: 0,
+    // how do you want to measure score?
+    //  that's up to you!
+    score: 0
+  },
   // the questions in the quiz
   questions: [
     {
@@ -59,6 +63,6 @@ const state = {
           href: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof'
         },
       ]
-    }
+    },
   ]
 };
