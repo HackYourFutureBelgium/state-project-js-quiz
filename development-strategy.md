@@ -23,6 +23,10 @@ This is a simple website in which users can check their JS knowledge by taking a
 
 __As a user I want to see the home page when I load the site__
 
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
+
 ### REPO
 
 - This user story is developed on branch `_`.
@@ -45,6 +49,10 @@ __As a user I want to see the home page when I load the site__
 ## 2. Begin the Quiz
 
 __As a user I want to see at least 8 quiz questions__
+
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
 
 ### REPO
 
@@ -75,6 +83,10 @@ __As a user I want to see at least 8 quiz questions__
 
 __As a user I want to select my answer for each quiz question__
 
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
+
 ### REPO
 
 - This user story is developed on the branch `_`
@@ -98,6 +110,10 @@ __As a user I want to select my answer for each quiz question__
 
 __As a user I want to know which questions I answered correctly__
 
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
+
 ### REPO
 
 - This user story is developed on the branch `_`
@@ -120,6 +136,10 @@ __As a user I want to know which questions I answered correctly__
 ## 5. View Score
 
 __As a user I want to see my score__
+
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
 
 ### REPO
 
@@ -146,6 +166,10 @@ __As a user I want to see my score__
 ## 6. View Correct Answers
 
 __As a user I want to know what the correct answers for the questions I got wrong__
+
+- _acceptance criteria_
+- _acceptance criteria_
+- ...
 
 ### REPO
 

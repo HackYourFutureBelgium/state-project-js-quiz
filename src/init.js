@@ -8,6 +8,6 @@ window.onload = () => {
   log.push({
     state: deepClone(state)
   });
-  // this log will always
+  // this log will always be up to date because of reference
   console.log(log);
 };
