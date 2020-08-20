@@ -108,6 +108,8 @@ handlers are the glue of your user stories.  understanding your answers to these
 
 Convert your development strategy into milestones (user stories), issues, labels and a project board.
 
+When you create the milestones for your user stories, you can include the _acceptance criteria_ in the milestone's description.
+
 This isn't a permanent thing! You can always adjust the project board and development strategy as the project evolves; adding issues, removing issues, adjusting tasks ... whatever is necessary to make the project go smoothly.
 
 ## Sprinting and Reviewing
