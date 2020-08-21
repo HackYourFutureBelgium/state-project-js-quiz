@@ -61,9 +61,9 @@ How you'll know when the story is finished.
 
 ## Defining Tasks
 
-How to break the story into coding tasks. (`development-strategy.md`)
+How to break the story into coding tasks. (`development-strategy.md`) Answering these questions is a way to break down complex user stories and to determine what code is needed.
 
-Answering these questions is a way to break down complex user stories and to determine what code is needed:
+Handlers are the glue of your user stories.  Understanding your answers to these questions will not only help you decide which tasks to develop, but can be used to plan the details of the user story's handler:
 
 1. **User Story Objectives**
     1. _What should change in state after this user story is complete?_
@@ -96,8 +96,6 @@ Answering these questions is a way to break down complex user stories and to det
         2. _Can it happen in the handler with simple dom manipulation?_
         3. _Can I reuse a view function from another story?_
         4. _Do I need to write a new view function?_
-
-handlers are the glue of your user stories.  understanding your answers to these questions will guide the development of your handlers and will help you decide what other tasks to create.
 
 - [Lars Bilde](https://www.youtube.com/watch?v=gZ4uLafsxAk)
 - [Christiaan Verwijs](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
