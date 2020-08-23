@@ -89,27 +89,6 @@ __As a user I want to select my answer for each quiz question__
 
 ---
 
-## 3. Select an answer
-
-__As a user I want to select my answer for each quiz question__
-
-- _acceptance criteria_
-- _acceptance criteria_
-- ...
-
-### REPO
-
-- This user story is developed on the branch `_`
-- This branch is merged to the `master` branch after completion.
-
-### Task A
-
-### Task B
-
-### Task ...
-
----
-
 ## 4. View Score
 
 __As a user I want to see my score__
