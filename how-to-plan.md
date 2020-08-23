@@ -58,7 +58,7 @@ Understanding these dependencies can also allow you to develop much more efficie
 
 A nice way to understand these relationships is by creating a graph to visually represent dependencies:
 
-- [_must haves_ for this quiz](https://excalidraw.com/#room=a18b37e650ae9e4a4238,nthwORUwKfiHmR77pKR1mQ)
+- [_must haves_ for this quiz](https://excalidraw.com/#json=5248906938023936,dnJz0Qy9tk5M4ho-RUiqYQ)
 - [a portfolio example](https://github.com/elewa-student/User-Centered-Development#story-dependencies)
 
 [Excalidraw](https://excalidraw.com/) is a great tool for collaboratively writing these diagrams.

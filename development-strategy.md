@@ -6,7 +6,7 @@ This is a simple website in which users can check their JS knowledge by taking a
 
 ## User Story Dependencies
 
-[Story Dependency Diagram](https://excalidraw.com/#room=a18b37e650ae9e4a4238,nthwORUwKfiHmR77pKR1mQ)
+[Story Dependency Diagram](https://excalidraw.com/#json=5248906938023936,dnJz0Qy9tk5M4ho-RUiqYQ)
 
 ---
 
