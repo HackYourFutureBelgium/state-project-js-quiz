@@ -6,7 +6,7 @@ This is a simple website in which users can check their JS knowledge by taking a
 
 ## User Story Dependencies
 
-[Story Dependency Diagram](https://excalidraw.com/#room=a18b37e650ae9e4a4238,nthwORUwKfiHmR77pKR1mQ): user stories that do not depend on each other can be developed at the same time.
+[Story Dependency Diagram](https://excalidraw.com/#room=a18b37e650ae9e4a4238,nthwORUwKfiHmR77pKR1mQ)
 
 ---
 
@@ -89,7 +89,7 @@ __As a user I want to select my answer for each quiz question__
 
 ---
 
-## 4. View Score
+## 4.a View Score
 
 __As a user I want to see my score__
 
@@ -110,7 +110,7 @@ __As a user I want to see my score__
 
 ---
 
-## 4. Get Feedback
+## 4.b Get Feedback
 
 __As a user I want to know the correct answers for incorrect questions__
 
